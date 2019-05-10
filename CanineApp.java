@@ -7,6 +7,15 @@ Purpose: To let the user put in directions into stack and do certain actions to 
 *******************************************************************************
 */
 
+/*------------------------------------------------------------------------------
+       FEEDBACK FROM INSTRUCTOR:
+       Overall, very good.  The user interface could be better.  The user needs 
+       to know what to type in for the directions (North, N, north, 1 for 
+       north, etc.).  We want to be very clear to the user.  Also would be 
+       good to be able to do options 2 and 3 without running the program again.  
+       Still good work.
+------------------------------------------------------------------------------*/
+
 import jsjf.ArrayStack;
 import java.util.Scanner;
 
