@@ -41,7 +41,7 @@ public class CanineApp
         ------------------------------------------------------------------------------
         */
         do {
-            System.out.println("Please put in a direction: ");
+            System.out.println("Please put in a direction (North, South, East or West): "); //originally didn't show directions in prompt
             direction = scnr.nextLine();
             System.out.println();
             
